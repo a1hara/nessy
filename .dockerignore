@@ -1,0 +1,11 @@
+# すべての .git フォルダを除外
+.git
+
+# ログファイルを除外
+*.log
+
+# node_modules ディレクトリを除外
+node_modules
+
+# ビルドファイルを除外
+build/
